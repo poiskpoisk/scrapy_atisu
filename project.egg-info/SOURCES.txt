@@ -1,0 +1,12 @@
+setup.py
+aticld/__init__.py
+aticld/items.py
+aticld/pipelines.py
+aticld/settings.py
+aticld/spiders/__init__.py
+aticld/spiders/aticld_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
